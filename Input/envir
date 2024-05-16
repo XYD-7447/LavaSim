@@ -1,0 +1,14 @@
+envir
+12
+GravAcc 1.62
+AtmTemperature 250
+AtmDen 0.0
+AtmSpecificHeat 850
+Aa 3e-5
+Ka 1e-6
+Va 1.3e-5
+Gamma 0.1
+Cv 1200
+Lambda 2.0
+Emi 0.9
+IsCoupled 0

@@ -1,0 +1,12 @@
+lava
+10
+IsCoolTrans 1
+TransTemperature 1150
+IsVStatic 0
+VisParaA -4.55
+VisParaB 5051.6
+VisParaC 676.3
+IsDStatic 0
+DenParaA 64320.919
+DenParaB 22.826
+DenParaC 0.001528
