@@ -1,0 +1,34 @@
+Time: Wed Nov 22 13:20:53 2023
+*************************************************************
+RScale: 1.4
+CtlDelta: 0.08
+nRow: 600
+nCol: 600
+CellSize: 500
+TimeStepMax: 1
+IsAreaCorrection: 1
+*************************************************************
+IsViscosityStatic: 0
+ViscosityParaA: -4.55
+ViscosityParaB: 5051.6
+ViscosityParaC: 676.3
+IsDensityStatic: 0
+DensityParaA: 64320.9
+DensityParaB: 22.826
+DensityParaC: 0.001528
+IsTransform: 1
+TransformTemp: 1150
+*************************************************************
+Gravity: 1.62
+AtmTemperature: 250
+AtmDen: 0
+AtmSpecificHeat: 850
+Aa: 3e-05
+Ka: 1e-06
+Va: 1.3e-05
+Gamma: 0.1
+Lambda: 2.177
+Cv: 1150
+Emissivity: 0.9
+IsCoupled: 0
+*************************************************************

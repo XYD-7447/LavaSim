@@ -1,0 +1,830 @@
+Loading Input/ctl...
+Loading Input/volcano...
+Loading Input/envir...
+Loading Input/lava...
+Loading Input/tdata...
+Loading Input/hdata...
+Loading Input/zdata...
+Loading Input/neibor...
+Outputting params...
+Finished Initialization.
+Start Computing...
+Current system time: Wed Nov 22 13:20:54 2023
+Initial Boundary: left-98 down-505 right-491 up-505
+=======================================================
+Now count:0 Now time:0 Timestep:1
+Current system time: Wed Nov 22 13:20:54 2023
+Lasting time: 0s
+=======================================================
+Now count:10000 Now time:9942.11 Timestep:0.929806
+Current system time: Wed Nov 22 13:21:04 2023
+Lasting time: 10s
+=======================================================
+Now count:10063 Now time:10000.6 Timestep:0.928049
+=======================================================
+Now count:20000 Now time:16016.7 Timestep:0.597148
+Current system time: Wed Nov 22 13:21:15 2023
+Lasting time: 21s
+=======================================================
+Now count:30000 Now time:19571.3 Timestep:0.0846418
+Current system time: Wed Nov 22 13:21:25 2023
+Lasting time: 31s
+=======================================================
+Now count:31672 Now time:20000.3 Timestep:0.377367
+=======================================================
+Now count:40000 Now time:21512.6 Timestep:0.15726
+Current system time: Wed Nov 22 13:21:36 2023
+Lasting time: 42s
+=======================================================
+Now count:50000 Now time:22627.8 Timestep:0.103366
+Current system time: Wed Nov 22 13:21:47 2023
+Lasting time: 53s
+=======================================================
+Now count:60000 Now time:23601.3 Timestep:0.083145
+Current system time: Wed Nov 22 13:21:58 2023
+Lasting time: 64s
+=======================================================
+Now count:70000 Now time:24487.6 Timestep:0.0705734
+Current system time: Wed Nov 22 13:22:08 2023
+Lasting time: 74s
+=======================================================
+Now count:80000 Now time:25307 Timestep:0.0619188
+Current system time: Wed Nov 22 13:22:19 2023
+Lasting time: 85s
+=======================================================
+Now count:90000 Now time:26074.6 Timestep:0.0552109
+Current system time: Wed Nov 22 13:22:29 2023
+Lasting time: 95s
+=======================================================
+Now count:100000 Now time:26810.1 Timestep:0.0495901
+Current system time: Wed Nov 22 13:22:40 2023
+Lasting time: 106s
+=======================================================
+Now count:110000 Now time:27542.9 Timestep:0.0452699
+Current system time: Wed Nov 22 13:22:51 2023
+Lasting time: 117s
+=======================================================
+Now count:120000 Now time:28290.1 Timestep:0.0437386
+Current system time: Wed Nov 22 13:23:02 2023
+Lasting time: 128s
+=======================================================
+Now count:130000 Now time:29039 Timestep:0.0431568
+Current system time: Wed Nov 22 13:23:12 2023
+Lasting time: 138s
+=======================================================
+Now count:140000 Now time:29783.7 Timestep:0.0426467
+Current system time: Wed Nov 22 13:23:23 2023
+Lasting time: 149s
+=======================================================
+Now count:142922 Now time:30000 Timestep:0.0424855
+=======================================================
+Now count:150000 Now time:30521.2 Timestep:0.0420696
+Current system time: Wed Nov 22 13:23:34 2023
+Lasting time: 160s
+=======================================================
+Now count:160000 Now time:31248 Timestep:0.0414516
+Current system time: Wed Nov 22 13:23:45 2023
+Lasting time: 171s
+=======================================================
+Now count:170000 Now time:31958.5 Timestep:0.0408853
+Current system time: Wed Nov 22 13:23:56 2023
+Lasting time: 182s
+=======================================================
+Now count:180000 Now time:32643 Timestep:0.0409175
+Current system time: Wed Nov 22 13:24:07 2023
+Lasting time: 193s
+=======================================================
+Now count:190000 Now time:33300.6 Timestep:0.0407687
+Current system time: Wed Nov 22 13:24:18 2023
+Lasting time: 204s
+=======================================================
+Now count:200000 Now time:33938.3 Timestep:0.0404801
+Current system time: Wed Nov 22 13:24:29 2023
+Lasting time: 215s
+=======================================================
+Now count:210000 Now time:34562.3 Timestep:0.0400755
+Current system time: Wed Nov 22 13:24:40 2023
+Lasting time: 226s
+=======================================================
+Now count:220000 Now time:35178.1 Timestep:0.0396245
+Current system time: Wed Nov 22 13:24:51 2023
+Lasting time: 237s
+=======================================================
+Now count:230000 Now time:35789.1 Timestep:0.03918
+Current system time: Wed Nov 22 13:25:03 2023
+Lasting time: 249s
+=======================================================
+Now count:240000 Now time:36398 Timestep:0.0386916
+Current system time: Wed Nov 22 13:25:14 2023
+Lasting time: 260s
+=======================================================
+Now count:250000 Now time:37007.7 Timestep:0.0381315
+Current system time: Wed Nov 22 13:25:25 2023
+Lasting time: 271s
+=======================================================
+Now count:260000 Now time:37620.6 Timestep:0.0374951
+Current system time: Wed Nov 22 13:25:37 2023
+Lasting time: 283s
+=======================================================
+Now count:270000 Now time:38238.6 Timestep:0.0367662
+Current system time: Wed Nov 22 13:25:48 2023
+Lasting time: 294s
+=======================================================
+Now count:280000 Now time:38862.8 Timestep:0.0360013
+Current system time: Wed Nov 22 13:26:00 2023
+Lasting time: 306s
+=======================================================
+Now count:290000 Now time:39492.1 Timestep:0.0353369
+Current system time: Wed Nov 22 13:26:11 2023
+Lasting time: 317s
+=======================================================
+Now count:298033 Now time:40000 Timestep:0.0918068
+=======================================================
+Now count:300000 Now time:40124.7 Timestep:0.0347625
+Current system time: Wed Nov 22 13:26:23 2023
+Lasting time: 329s
+=======================================================
+Now count:310000 Now time:40759.4 Timestep:0.0342517
+Current system time: Wed Nov 22 13:26:35 2023
+Lasting time: 341s
+=======================================================
+Now count:320000 Now time:41394.2 Timestep:0.0338569
+Current system time: Wed Nov 22 13:26:46 2023
+Lasting time: 352s
+=======================================================
+Now count:330000 Now time:42025 Timestep:0.0336219
+Current system time: Wed Nov 22 13:26:58 2023
+Lasting time: 364s
+=======================================================
+Now count:340000 Now time:42647.6 Timestep:0.0335186
+Current system time: Wed Nov 22 13:27:10 2023
+Lasting time: 376s
+=======================================================
+Now count:350000 Now time:43260.2 Timestep:0.0334209
+Current system time: Wed Nov 22 13:27:21 2023
+Lasting time: 387s
+=======================================================
+Now count:360000 Now time:43865 Timestep:0.0332312
+Current system time: Wed Nov 22 13:27:33 2023
+Lasting time: 399s
+=======================================================
+Now count:370000 Now time:44465.7 Timestep:0.0329745
+Current system time: Wed Nov 22 13:27:44 2023
+Lasting time: 410s
+=======================================================
+Now count:380000 Now time:45064.8 Timestep:0.0327087
+Current system time: Wed Nov 22 13:27:56 2023
+Lasting time: 422s
+=======================================================
+Now count:390000 Now time:45663.6 Timestep:0.0324607
+Current system time: Wed Nov 22 13:28:08 2023
+Lasting time: 434s
+=======================================================
+Now count:400000 Now time:46262.8 Timestep:0.0322367
+Current system time: Wed Nov 22 13:28:20 2023
+Lasting time: 446s
+=======================================================
+Now count:410000 Now time:46862.9 Timestep:0.032038
+Current system time: Wed Nov 22 13:28:32 2023
+Lasting time: 458s
+=======================================================
+Now count:420000 Now time:47464 Timestep:0.0318651
+Current system time: Wed Nov 22 13:28:44 2023
+Lasting time: 470s
+=======================================================
+Now count:430000 Now time:48066.1 Timestep:0.0317161
+Current system time: Wed Nov 22 13:28:56 2023
+Lasting time: 482s
+=======================================================
+Now count:440000 Now time:48669 Timestep:0.0315888
+Current system time: Wed Nov 22 13:29:08 2023
+Lasting time: 494s
+=======================================================
+Now count:450000 Now time:49272.6 Timestep:0.0314796
+Current system time: Wed Nov 22 13:29:21 2023
+Lasting time: 507s
+=======================================================
+Now count:460000 Now time:49876.6 Timestep:0.0313841
+Current system time: Wed Nov 22 13:29:33 2023
+Lasting time: 519s
+=======================================================
+Now count:462043 Now time:50000 Timestep:0.0894635
+=======================================================
+Now count:470000 Now time:50480.8 Timestep:0.0312969
+Current system time: Wed Nov 22 13:29:45 2023
+Lasting time: 531s
+=======================================================
+Now count:480000 Now time:51085.1 Timestep:0.031215
+Current system time: Wed Nov 22 13:29:58 2023
+Lasting time: 544s
+=======================================================
+Now count:490000 Now time:51689.6 Timestep:0.0311378
+Current system time: Wed Nov 22 13:30:10 2023
+Lasting time: 556s
+=======================================================
+Now count:500000 Now time:52294.2 Timestep:0.0310649
+Current system time: Wed Nov 22 13:30:22 2023
+Lasting time: 568s
+=======================================================
+Now count:510000 Now time:52898.9 Timestep:0.0309954
+Current system time: Wed Nov 22 13:30:34 2023
+Lasting time: 580s
+=======================================================
+Now count:520000 Now time:53503.8 Timestep:0.0309287
+Current system time: Wed Nov 22 13:30:46 2023
+Lasting time: 592s
+=======================================================
+Now count:530000 Now time:54109 Timestep:0.0308642
+Current system time: Wed Nov 22 13:30:59 2023
+Lasting time: 605s
+=======================================================
+Now count:540000 Now time:54714.7 Timestep:0.0308007
+Current system time: Wed Nov 22 13:31:11 2023
+Lasting time: 617s
+=======================================================
+Now count:550000 Now time:55320.9 Timestep:0.0307368
+Current system time: Wed Nov 22 13:31:23 2023
+Lasting time: 629s
+=======================================================
+Now count:560000 Now time:55927.7 Timestep:0.0306723
+Current system time: Wed Nov 22 13:31:36 2023
+Lasting time: 642s
+=======================================================
+Now count:570000 Now time:56535.2 Timestep:0.0306085
+Current system time: Wed Nov 22 13:31:48 2023
+Lasting time: 654s
+=======================================================
+Now count:580000 Now time:57143.5 Timestep:0.0305455
+Current system time: Wed Nov 22 13:32:00 2023
+Lasting time: 666s
+=======================================================
+Now count:590000 Now time:57752.6 Timestep:0.0304826
+Current system time: Wed Nov 22 13:32:13 2023
+Lasting time: 679s
+=======================================================
+Now count:600000 Now time:58362.5 Timestep:0.0304189
+Current system time: Wed Nov 22 13:32:25 2023
+Lasting time: 691s
+=======================================================
+Now count:610000 Now time:58973.2 Timestep:0.0303544
+Current system time: Wed Nov 22 13:32:37 2023
+Lasting time: 703s
+=======================================================
+Now count:620000 Now time:59584.6 Timestep:0.0302892
+Current system time: Wed Nov 22 13:32:50 2023
+Lasting time: 716s
+=======================================================
+Now count:626787 Now time:60000.1 Timestep:0.0922236
+=======================================================
+Now count:630000 Now time:60196.8 Timestep:0.0302231
+Current system time: Wed Nov 22 13:33:03 2023
+Lasting time: 729s
+=======================================================
+Now count:640000 Now time:60809.8 Timestep:0.0301555
+Current system time: Wed Nov 22 13:33:15 2023
+Lasting time: 741s
+=======================================================
+Now count:650000 Now time:61423.4 Timestep:0.0300858
+Current system time: Wed Nov 22 13:33:28 2023
+Lasting time: 754s
+=======================================================
+Now count:660000 Now time:62037.8 Timestep:0.0300138
+Current system time: Wed Nov 22 13:33:40 2023
+Lasting time: 766s
+=======================================================
+Now count:670000 Now time:62652.9 Timestep:0.0299396
+Current system time: Wed Nov 22 13:33:52 2023
+Lasting time: 778s
+=======================================================
+Now count:680000 Now time:63268.5 Timestep:0.029864
+Current system time: Wed Nov 22 13:34:05 2023
+Lasting time: 791s
+=======================================================
+Now count:690000 Now time:63884.7 Timestep:0.0297882
+Current system time: Wed Nov 22 13:34:17 2023
+Lasting time: 803s
+=======================================================
+Now count:700000 Now time:64501.1 Timestep:0.0297127
+Current system time: Wed Nov 22 13:34:30 2023
+Lasting time: 816s
+=======================================================
+Now count:710000 Now time:65117.7 Timestep:0.0296383
+Current system time: Wed Nov 22 13:34:42 2023
+Lasting time: 828s
+=======================================================
+Now count:720000 Now time:65734.1 Timestep:0.0295658
+Current system time: Wed Nov 22 13:34:54 2023
+Lasting time: 840s
+=======================================================
+Now count:730000 Now time:66350 Timestep:0.0294968
+Current system time: Wed Nov 22 13:35:07 2023
+Lasting time: 853s
+=======================================================
+Now count:740000 Now time:66965 Timestep:0.0294331
+Current system time: Wed Nov 22 13:35:19 2023
+Lasting time: 865s
+=======================================================
+Now count:750000 Now time:67578.6 Timestep:0.0293753
+Current system time: Wed Nov 22 13:35:31 2023
+Lasting time: 877s
+=======================================================
+Now count:760000 Now time:68190.2 Timestep:0.0293225
+Current system time: Wed Nov 22 13:35:44 2023
+Lasting time: 890s
+=======================================================
+Now count:770000 Now time:68799.4 Timestep:0.0292716
+Current system time: Wed Nov 22 13:35:56 2023
+Lasting time: 902s
+=======================================================
+Now count:780000 Now time:69406.1 Timestep:0.0292179
+Current system time: Wed Nov 22 13:36:08 2023
+Lasting time: 914s
+=======================================================
+Now count:789831 Now time:70000.1 Timestep:0.0914354
+=======================================================
+Now count:790000 Now time:70010.2 Timestep:0.0291567
+Current system time: Wed Nov 22 13:36:21 2023
+Lasting time: 927s
+=======================================================
+Now count:800000 Now time:70612.1 Timestep:0.0290863
+Current system time: Wed Nov 22 13:36:33 2023
+Lasting time: 939s
+=======================================================
+Now count:810000 Now time:71212 Timestep:0.0290078
+Current system time: Wed Nov 22 13:36:45 2023
+Lasting time: 951s
+=======================================================
+Now count:820000 Now time:71810.3 Timestep:0.0289228
+Current system time: Wed Nov 22 13:36:58 2023
+Lasting time: 964s
+=======================================================
+Now count:830000 Now time:72407.4 Timestep:0.0288332
+Current system time: Wed Nov 22 13:37:10 2023
+Lasting time: 976s
+=======================================================
+Now count:840000 Now time:73003.7 Timestep:0.0287412
+Current system time: Wed Nov 22 13:37:22 2023
+Lasting time: 988s
+=======================================================
+Now count:850000 Now time:73599.3 Timestep:0.0286484
+Current system time: Wed Nov 22 13:37:35 2023
+Lasting time: 1001s
+=======================================================
+Now count:860000 Now time:74194.5 Timestep:0.0285569
+Current system time: Wed Nov 22 13:37:47 2023
+Lasting time: 1013s
+=======================================================
+Now count:870000 Now time:74789.6 Timestep:0.0284665
+Current system time: Wed Nov 22 13:37:59 2023
+Lasting time: 1025s
+=======================================================
+Now count:880000 Now time:75384.6 Timestep:0.0283781
+Current system time: Wed Nov 22 13:38:12 2023
+Lasting time: 1038s
+=======================================================
+Now count:890000 Now time:75979.8 Timestep:0.0282927
+Current system time: Wed Nov 22 13:38:24 2023
+Lasting time: 1050s
+=======================================================
+Now count:900000 Now time:76575.2 Timestep:0.0282114
+Current system time: Wed Nov 22 13:38:36 2023
+Lasting time: 1062s
+=======================================================
+Now count:910000 Now time:77170.9 Timestep:0.0281349
+Current system time: Wed Nov 22 13:38:49 2023
+Lasting time: 1075s
+=======================================================
+Now count:920000 Now time:77767 Timestep:0.0280634
+Current system time: Wed Nov 22 13:39:01 2023
+Lasting time: 1087s
+=======================================================
+Now count:930000 Now time:78363.4 Timestep:0.0279971
+Current system time: Wed Nov 22 13:39:14 2023
+Lasting time: 1100s
+=======================================================
+Now count:940000 Now time:78960.2 Timestep:0.027936
+Current system time: Wed Nov 22 13:39:26 2023
+Lasting time: 1112s
+=======================================================
+Now count:950000 Now time:79557.4 Timestep:0.0278799
+Current system time: Wed Nov 22 13:39:38 2023
+Lasting time: 1124s
+=======================================================
+Now count:957407 Now time:80000.1 Timestep:0.091704
+=======================================================
+Now count:960000 Now time:80155 Timestep:0.0278282
+Current system time: Wed Nov 22 13:39:51 2023
+Lasting time: 1137s
+=======================================================
+Now count:970000 Now time:80753.1 Timestep:0.0277817
+Current system time: Wed Nov 22 13:40:03 2023
+Lasting time: 1149s
+=======================================================
+Now count:980000 Now time:81351.5 Timestep:0.02774
+Current system time: Wed Nov 22 13:40:16 2023
+Lasting time: 1162s
+=======================================================
+Now count:990000 Now time:81950.3 Timestep:0.0277028
+Current system time: Wed Nov 22 13:40:28 2023
+Lasting time: 1174s
+=======================================================
+Now count:1000000 Now time:82549.4 Timestep:0.0276697
+Current system time: Wed Nov 22 13:40:41 2023
+Lasting time: 1187s
+=======================================================
+Now count:1010000 Now time:83148.8 Timestep:0.0276402
+Current system time: Wed Nov 22 13:40:53 2023
+Lasting time: 1199s
+=======================================================
+Now count:1020000 Now time:83748.4 Timestep:0.027614
+Current system time: Wed Nov 22 13:41:05 2023
+Lasting time: 1211s
+=======================================================
+Now count:1030000 Now time:84348.3 Timestep:0.0275906
+Current system time: Wed Nov 22 13:41:18 2023
+Lasting time: 1224s
+=======================================================
+Now count:1040000 Now time:84948.4 Timestep:0.0275698
+Current system time: Wed Nov 22 13:41:30 2023
+Lasting time: 1236s
+=======================================================
+Now count:1050000 Now time:85548.6 Timestep:0.0275514
+Current system time: Wed Nov 22 13:41:43 2023
+Lasting time: 1249s
+=======================================================
+Now count:1060000 Now time:86148.9 Timestep:0.0275355
+Current system time: Wed Nov 22 13:41:55 2023
+Lasting time: 1261s
+=======================================================
+Now count:1070000 Now time:86749.3 Timestep:0.0275217
+Current system time: Wed Nov 22 13:42:08 2023
+Lasting time: 1274s
+=======================================================
+Now count:1080000 Now time:87349.8 Timestep:0.0275098
+Current system time: Wed Nov 22 13:42:20 2023
+Lasting time: 1286s
+=======================================================
+Now count:1090000 Now time:87950.3 Timestep:0.0274993
+Current system time: Wed Nov 22 13:42:33 2023
+Lasting time: 1299s
+=======================================================
+Now count:1100000 Now time:88550.8 Timestep:0.0274898
+Current system time: Wed Nov 22 13:42:45 2023
+Lasting time: 1311s
+=======================================================
+Now count:1110000 Now time:89151.2 Timestep:0.027481
+Current system time: Wed Nov 22 13:42:57 2023
+Lasting time: 1323s
+=======================================================
+Now count:1120000 Now time:89751.6 Timestep:0.0274726
+Current system time: Wed Nov 22 13:43:10 2023
+Lasting time: 1336s
+=======================================================
+Now count:1124137 Now time:90000.1 Timestep:0.0926044
+=======================================================
+Now count:1130000 Now time:90352 Timestep:0.0274642
+Current system time: Wed Nov 22 13:43:23 2023
+Lasting time: 1349s
+=======================================================
+Now count:1140000 Now time:90952.3 Timestep:0.0274555
+Current system time: Wed Nov 22 13:43:35 2023
+Lasting time: 1361s
+=======================================================
+Now count:1150000 Now time:91552.5 Timestep:0.027446
+Current system time: Wed Nov 22 13:43:48 2023
+Lasting time: 1374s
+=======================================================
+Now count:1160000 Now time:92152.7 Timestep:0.0274356
+Current system time: Wed Nov 22 13:44:01 2023
+Lasting time: 1387s
+=======================================================
+Now count:1170000 Now time:92752.7 Timestep:0.0274237
+Current system time: Wed Nov 22 13:44:13 2023
+Lasting time: 1399s
+=======================================================
+Now count:1180000 Now time:93352.7 Timestep:0.0274106
+Current system time: Wed Nov 22 13:44:26 2023
+Lasting time: 1412s
+=======================================================
+Now count:1190000 Now time:93952.6 Timestep:0.0273961
+Current system time: Wed Nov 22 13:44:38 2023
+Lasting time: 1424s
+=======================================================
+Now count:1200000 Now time:94552.4 Timestep:0.02738
+Current system time: Wed Nov 22 13:44:51 2023
+Lasting time: 1437s
+=======================================================
+Now count:1210000 Now time:95152 Timestep:0.0273624
+Current system time: Wed Nov 22 13:45:03 2023
+Lasting time: 1449s
+=======================================================
+Now count:1220000 Now time:95751.4 Timestep:0.0273432
+Current system time: Wed Nov 22 13:45:16 2023
+Lasting time: 1462s
+=======================================================
+Now count:1230000 Now time:96350.7 Timestep:0.0273221
+Current system time: Wed Nov 22 13:45:29 2023
+Lasting time: 1475s
+=======================================================
+Now count:1240000 Now time:96949.6 Timestep:0.027299
+Current system time: Wed Nov 22 13:45:41 2023
+Lasting time: 1487s
+=======================================================
+Now count:1250000 Now time:97548.3 Timestep:0.0272736
+Current system time: Wed Nov 22 13:45:54 2023
+Lasting time: 1500s
+=======================================================
+Now count:1260000 Now time:98146.6 Timestep:0.0272459
+Current system time: Wed Nov 22 13:46:07 2023
+Lasting time: 1513s
+=======================================================
+Now count:1270000 Now time:98744.6 Timestep:0.0272157
+Current system time: Wed Nov 22 13:46:19 2023
+Lasting time: 1525s
+=======================================================
+Now count:1280000 Now time:99342.2 Timestep:0.0271818
+Current system time: Wed Nov 22 13:46:32 2023
+Lasting time: 1538s
+=======================================================
+Now count:1290000 Now time:99939.5 Timestep:0.0271427
+Current system time: Wed Nov 22 13:46:45 2023
+Lasting time: 1551s
+=======================================================
+Now count:1291014 Now time:100000 Timestep:0.0271384
+=======================================================
+Now count:1300000 Now time:100732 Timestep:0.0257487
+Current system time: Wed Nov 22 13:46:58 2023
+Lasting time: 1564s
+=======================================================
+Now count:1310000 Now time:101535 Timestep:0.0266857
+Current system time: Wed Nov 22 13:47:11 2023
+Lasting time: 1577s
+=======================================================
+Now count:1320000 Now time:102339 Timestep:0.02744
+Current system time: Wed Nov 22 13:47:24 2023
+Lasting time: 1590s
+=======================================================
+Now count:1330000 Now time:103151 Timestep:0.0281037
+Current system time: Wed Nov 22 13:47:37 2023
+Lasting time: 1603s
+=======================================================
+Now count:1340000 Now time:103973 Timestep:0.0287123
+Current system time: Wed Nov 22 13:47:50 2023
+Lasting time: 1616s
+=======================================================
+Now count:1350000 Now time:104809 Timestep:0.029285
+Current system time: Wed Nov 22 13:48:03 2023
+Lasting time: 1629s
+=======================================================
+Now count:1360000 Now time:105659 Timestep:0.0298341
+Current system time: Wed Nov 22 13:48:16 2023
+Lasting time: 1642s
+=======================================================
+Now count:1370000 Now time:106527 Timestep:0.0303704
+Current system time: Wed Nov 22 13:48:29 2023
+Lasting time: 1655s
+=======================================================
+Now count:1380000 Now time:107414 Timestep:0.0309034
+Current system time: Wed Nov 22 13:48:42 2023
+Lasting time: 1668s
+=======================================================
+Now count:1390000 Now time:108321 Timestep:0.0314411
+Current system time: Wed Nov 22 13:48:56 2023
+Lasting time: 1682s
+=======================================================
+Now count:1400000 Now time:109253 Timestep:0.0319908
+Current system time: Wed Nov 22 13:49:09 2023
+Lasting time: 1695s
+=======================================================
+Now count:1407819 Now time:110000 Timestep:0.160824
+=======================================================
+Now count:1410000 Now time:110211 Timestep:0.0325828
+Current system time: Wed Nov 22 13:49:23 2023
+Lasting time: 1709s
+=======================================================
+Now count:1420000 Now time:111190 Timestep:0.0332533
+Current system time: Wed Nov 22 13:49:36 2023
+Lasting time: 1722s
+=======================================================
+Now count:1430000 Now time:112187 Timestep:0.0339101
+Current system time: Wed Nov 22 13:49:49 2023
+Lasting time: 1735s
+=======================================================
+Now count:1440000 Now time:113204 Timestep:0.0345606
+Current system time: Wed Nov 22 13:50:03 2023
+Lasting time: 1749s
+=======================================================
+Now count:1450000 Now time:114242 Timestep:0.0352105
+Current system time: Wed Nov 22 13:50:16 2023
+Lasting time: 1762s
+=======================================================
+Now count:1460000 Now time:115305 Timestep:0.0358703
+Current system time: Wed Nov 22 13:50:29 2023
+Lasting time: 1775s
+=======================================================
+Now count:1470000 Now time:116392 Timestep:0.036543
+Current system time: Wed Nov 22 13:50:43 2023
+Lasting time: 1789s
+=======================================================
+Now count:1480000 Now time:117507 Timestep:0.0372369
+Current system time: Wed Nov 22 13:50:56 2023
+Lasting time: 1802s
+=======================================================
+Now count:1490000 Now time:118650 Timestep:0.0379673
+Current system time: Wed Nov 22 13:51:09 2023
+Lasting time: 1815s
+=======================================================
+Now count:1500000 Now time:119823 Timestep:0.0387563
+Current system time: Wed Nov 22 13:51:23 2023
+Lasting time: 1829s
+=======================================================
+Now count:1501489 Now time:120000 Timestep:0.199645
+=======================================================
+Now count:1510000 Now time:121022 Timestep:0.0396766
+Current system time: Wed Nov 22 13:51:37 2023
+Lasting time: 1843s
+=======================================================
+Now count:1520000 Now time:122241 Timestep:0.0406413
+Current system time: Wed Nov 22 13:51:50 2023
+Lasting time: 1856s
+=======================================================
+Now count:1530000 Now time:123480 Timestep:0.0416415
+Current system time: Wed Nov 22 13:52:03 2023
+Lasting time: 1869s
+=======================================================
+Now count:1540000 Now time:124740 Timestep:0.0426814
+Current system time: Wed Nov 22 13:52:17 2023
+Lasting time: 1883s
+=======================================================
+Now count:1550000 Now time:126020 Timestep:0.0437649
+Current system time: Wed Nov 22 13:52:30 2023
+Lasting time: 1896s
+=======================================================
+Now count:1560000 Now time:127324 Timestep:0.0448989
+Current system time: Wed Nov 22 13:52:44 2023
+Lasting time: 1910s
+=======================================================
+Now count:1570000 Now time:128649 Timestep:0.0460899
+Current system time: Wed Nov 22 13:52:57 2023
+Lasting time: 1923s
+=======================================================
+Now count:1580000 Now time:129998 Timestep:0.0473438
+Current system time: Wed Nov 22 13:53:10 2023
+Lasting time: 1936s
+=======================================================
+Now count:1580015 Now time:130000 Timestep:0.224703
+=======================================================
+Now count:1590000 Now time:131367 Timestep:0.0486891
+Current system time: Wed Nov 22 13:53:24 2023
+Lasting time: 1950s
+=======================================================
+Now count:1600000 Now time:132756 Timestep:0.0500531
+Current system time: Wed Nov 22 13:53:37 2023
+Lasting time: 1963s
+=======================================================
+Now count:1610000 Now time:134164 Timestep:0.051449
+Current system time: Wed Nov 22 13:53:51 2023
+Lasting time: 1977s
+=======================================================
+Now count:1620000 Now time:135590 Timestep:0.0528945
+Current system time: Wed Nov 22 13:54:04 2023
+Lasting time: 1990s
+=======================================================
+Now count:1630000 Now time:137035 Timestep:0.0543745
+Current system time: Wed Nov 22 13:54:18 2023
+Lasting time: 2004s
+=======================================================
+Now count:1640000 Now time:138502 Timestep:0.0558418
+Current system time: Wed Nov 22 13:54:31 2023
+Lasting time: 2017s
+=======================================================
+Now count:1650000 Now time:139998 Timestep:0.0573607
+Current system time: Wed Nov 22 13:54:44 2023
+Lasting time: 2030s
+=======================================================
+Now count:1650015 Now time:140000 Timestep:0.244959
+=======================================================
+Now count:1660000 Now time:141526 Timestep:0.0589808
+Current system time: Wed Nov 22 13:54:58 2023
+Lasting time: 2044s
+=======================================================
+Now count:1670000 Now time:143087 Timestep:0.0607078
+Current system time: Wed Nov 22 13:55:11 2023
+Lasting time: 2057s
+=======================================================
+Now count:1680000 Now time:144682 Timestep:0.0625569
+Current system time: Wed Nov 22 13:55:25 2023
+Lasting time: 2071s
+=======================================================
+Now count:1690000 Now time:146315 Timestep:0.0645419
+Current system time: Wed Nov 22 13:55:38 2023
+Lasting time: 2084s
+=======================================================
+Now count:1700000 Now time:147986 Timestep:0.066679
+Current system time: Wed Nov 22 13:55:51 2023
+Lasting time: 2097s
+=======================================================
+Now count:1710000 Now time:149696 Timestep:0.0689876
+Current system time: Wed Nov 22 13:56:04 2023
+Lasting time: 2110s
+=======================================================
+Now count:1711749 Now time:150000 Timestep:0.278354
+=======================================================
+Now count:1720000 Now time:151448 Timestep:0.0715168
+Current system time: Wed Nov 22 13:56:18 2023
+Lasting time: 2124s
+=======================================================
+Now count:1730000 Now time:153238 Timestep:0.0742287
+Current system time: Wed Nov 22 13:56:31 2023
+Lasting time: 2137s
+=======================================================
+Now count:1740000 Now time:155069 Timestep:0.0771304
+Current system time: Wed Nov 22 13:56:44 2023
+Lasting time: 2150s
+=======================================================
+Now count:1750000 Now time:156940 Timestep:0.0802408
+Current system time: Wed Nov 22 13:56:58 2023
+Lasting time: 2164s
+=======================================================
+Now count:1760000 Now time:158852 Timestep:0.0835816
+Current system time: Wed Nov 22 13:57:11 2023
+Lasting time: 2177s
+=======================================================
+Now count:1765897 Now time:160000 Timestep:0.306099
+=======================================================
+Now count:1770000 Now time:160808 Timestep:0.0871777
+Current system time: Wed Nov 22 13:57:24 2023
+Lasting time: 2190s
+=======================================================
+Now count:1780000 Now time:162806 Timestep:0.0910576
+Current system time: Wed Nov 22 13:57:38 2023
+Lasting time: 2204s
+=======================================================
+Now count:1790000 Now time:164849 Timestep:0.0952537
+Current system time: Wed Nov 22 13:57:51 2023
+Lasting time: 2217s
+=======================================================
+Now count:1800000 Now time:166939 Timestep:0.0998034
+Current system time: Wed Nov 22 13:58:04 2023
+Lasting time: 2230s
+=======================================================
+Now count:1810000 Now time:169075 Timestep:0.10475
+Current system time: Wed Nov 22 13:58:17 2023
+Lasting time: 2243s
+=======================================================
+Now count:1814259 Now time:170000 Timestep:0.329443
+=======================================================
+Now count:1820000 Now time:171261 Timestep:0.110145
+Current system time: Wed Nov 22 13:58:31 2023
+Lasting time: 2257s
+=======================================================
+Now count:1830000 Now time:173498 Timestep:0.116049
+Current system time: Wed Nov 22 13:58:44 2023
+Lasting time: 2270s
+=======================================================
+Now count:1840000 Now time:175789 Timestep:0.122538
+Current system time: Wed Nov 22 13:58:57 2023
+Lasting time: 2283s
+=======================================================
+Now count:1850000 Now time:178136 Timestep:0.129703
+Current system time: Wed Nov 22 13:59:11 2023
+Lasting time: 2297s
+=======================================================
+Now count:1857771 Now time:180000 Timestep:0.348687
+=======================================================
+Now count:1860000 Now time:180541 Timestep:0.137662
+Current system time: Wed Nov 22 13:59:24 2023
+Lasting time: 2310s
+=======================================================
+Now count:1870000 Now time:183010 Timestep:0.146568
+Current system time: Wed Nov 22 13:59:37 2023
+Lasting time: 2323s
+=======================================================
+Now count:1880000 Now time:185544 Timestep:0.156629
+Current system time: Wed Nov 22 13:59:51 2023
+Lasting time: 2337s
+=======================================================
+Now count:1890000 Now time:188148 Timestep:0.168123
+Current system time: Wed Nov 22 14:00:04 2023
+Lasting time: 2350s
+=======================================================
+Now count:1896940 Now time:190000 Timestep:0.176989
+=======================================================
+Now count:1900000 Now time:190829 Timestep:0.181145
+Current system time: Wed Nov 22 14:00:17 2023
+Lasting time: 2363s
+=======================================================
+Now count:1910000 Now time:193600 Timestep:0.195902
+Current system time: Wed Nov 22 14:00:31 2023
+Lasting time: 2377s
+=======================================================
+Now count:1920000 Now time:196476 Timestep:0.212668
+Current system time: Wed Nov 22 14:00:44 2023
+Lasting time: 2390s
+=======================================================
+Now count:1930000 Now time:199479 Timestep:0.23187
+Current system time: Wed Nov 22 14:00:57 2023
+Lasting time: 2403s
+=======================================================
+Now count:1931689 Now time:200000 Timestep:0.384337
+Finished Computing!!!

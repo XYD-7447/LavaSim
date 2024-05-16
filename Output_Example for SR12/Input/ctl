@@ -1,0 +1,11 @@
+ctl
+9
+RScale 1.4
+TimeStepMax 1
+SumTime 200000
+OutputTime 10000
+CtlDelta 0.08
+nRow 600
+nCol 600
+CellSize 500
+AreaCorrection 1
