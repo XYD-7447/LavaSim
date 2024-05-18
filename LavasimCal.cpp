@@ -5,7 +5,7 @@ using namespace std;
 
 bool Lavasim::setNeibor(){
     double RScale = this->m_Para.m_RScale;
-    /*
+    
     if(this->m_Neibor)
         delete[] this->m_Neibor;
     this->m_Neibor = new int[this->m_Para.m_nRow*this->m_Para.m_nCol];
@@ -47,7 +47,7 @@ bool Lavasim::setNeibor(){
         }
         this->m_Neibor[i]=res;
     }
-    */
+    
     return true;
 }
 
