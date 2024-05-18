@@ -8,4 +8,5 @@ The codes can be running using CUDA module 11.2 on the GTX 1080 card
 Type the following code in the Command Prompt to run the program, LavaSim:
 
 make
+
 ./build
