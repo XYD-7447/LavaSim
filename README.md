@@ -7,6 +7,6 @@ For execution, the codes have been optimized to operate with the CUDA module ver
 
 To initiate the program, please enter the following commands into the Terminal:
 
-'make'
+make
 
-'./build'
+./build
