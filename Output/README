@@ -1,2 +1,2 @@
 This is the folder of the output results, which contain three types, lava thickness (hdata_time), lava temperature (tdata_time) and ground elevation (zdata_time).
-There is one example output folder: 'Output_Example for SR12/'
+There is one example output folder: `Output_Example for SR12`
